@@ -1,0 +1,25 @@
+1st  Brown
+text  -> 774f3D
+panel -> debeae
+bg ->  F4DDD2
+
+
+
+2nd Lightblue
+text    48606E
+panel   D3E4EE
+bg      F3F8FB
+
+
+3RD khakiBrown
+text        5F4A30
+panel       CFB095
+bg          DED0BF
+
+
+PINK
+
+text   ->   816264
+panel       E3C4C6
+bg          F4E0E1
+
